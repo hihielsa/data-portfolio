@@ -10,7 +10,7 @@ Each project demonstrates different skills in **data preprocessing, machine lear
 - Performed exploratory analysis and visualization of educational data.  
 - Generated **analysis notebook** with charts and narrative insights.  
 - Focused on clear **storytelling for decision-makers**.  
-- 📂 Folder: `Chang_Executive_Summary_Final.ipynb` + `images/`
+- 📂 Folder: `analysis_chicago_public_schools.ipynb` + `images/`
 
 ---
 ### 2. Loan Default & Loss Prediction (Aug 2025)
